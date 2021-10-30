@@ -9,5 +9,3 @@
 
 ### My daily routine
 ![](https://media.giphy.com/media/7ltN7lCgF2MQE/giphy.gif)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sadmansamee&theme=gitdimme)](https://github.com/ryo-ma/github-profile-trophy)
