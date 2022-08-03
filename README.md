@@ -3,7 +3,7 @@
 ### I'm a mobile application developer.
 
 - ⚙️ I use `.swift`, `.dart`, `.kt`, and `.java`. 
-- 👯 I’m mostly active on **iOS** and **Flutter** community and meme stuff.
+- 👯 I’m mostly active on **iOS** and **Flutter** community, Reddit and meme stuff.
 - 📫 Reach me: on [LinkedIn](https://www.linkedin.com/in/sadmansamee/) or [mail](mailto:sadman.tonmoy@gmail.com)
 - 😄 I write blogs here: [sadmansamee.github.io](https://sadmansamee.github.io) or visit me [here](https://www.sadmansamee.me/)
 
